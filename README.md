@@ -3,6 +3,7 @@ Email: karonjiagnesm@gmail.com
 Language Used: Java
 
 ===========================HOW TO RUN THE PROGRAM===========================
+
 To run the program (Required JDK/JRE1.7 and above):
 		1. Access the project's root folder.
 		2. Run the executable file:  
@@ -20,6 +21,7 @@ To run the program (Required JDK/JRE1.7 and above):
 
 
 ===========================ASSUMPTIONS MADE===========================
+
 The below assumptions have been made during development of this program:
 
 		1. User may run program from any operating system, thus cater for diverse file system properties.
