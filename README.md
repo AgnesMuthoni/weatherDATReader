@@ -2,9 +2,16 @@ Name: Agnes Muthoni Karonji
 Email: karonjiagnesm@gmail.com
 Language Used: Java
 
+===========================TASK=============================================
+
+1. Read and analyze the provided weather.dat file.
+2. Get the spread for each day, calculate the maximum spread.
+3. Output the day with maximum spread, as well as the actual spread.
+
 ===========================HOW TO RUN THE PROGRAM===========================
 
 To run the program (Required JDK/JRE1.7 and above):
+
 		1. Access the project's root folder.
 		2. Run the executable file:  
 									i) For Windows user, 
