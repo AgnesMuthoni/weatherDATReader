@@ -2,13 +2,13 @@ Name: Agnes Muthoni Karonji
 Email: karonjiagnesm@gmail.com
 Language Used: Java
 
-===========================TASK=============================================
+TASK
 
 1. Read and analyze the provided weather.dat file.
 2. Get the spread for each day, calculate the maximum spread.
 3. Output the day with maximum spread, as well as the actual spread.
 
-===========================HOW TO RUN THE PROGRAM===========================
+HOW TO RUN THE PROGRAM
 
 To run the program (Required JDK/JRE1.7 and above):
 
@@ -27,7 +27,7 @@ To run the program (Required JDK/JRE1.7 and above):
 
 
 
-===========================ASSUMPTIONS MADE===========================
+ASSUMPTIONS MADE
 
 The below assumptions have been made during development of this program:
 
@@ -37,5 +37,5 @@ The below assumptions have been made during development of this program:
 		4. The special character * (superscript on MxT and MnT eg: 97*, 32*) can be replaced with other special characters 
 		5. The special character eg: * can only be included in the MxT and MnT columns of the .dat file data.
 		6. The Java version used is Java 7 and above (for any development/ Builds on the IDE).
-		7. The program's runnable WeatherDATReader.jar file remains in the dist folder of the project's root directory, with the name WeatherDATReader.jar.
-		8. The executable WeatherDATReader.bat/WeatherDATReader.sh file remains in the project's root directory.
+		7. The program's runnable WeatherDATReader.jar file remains in the dist folder of the project's root directory, with the name weatherDATReader.jar.
+		8. The executable weatherDATReader.bat/weatherDATReader.sh file remains in the project's root directory.
